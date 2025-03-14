@@ -23,10 +23,7 @@ An interactive Fantasy Cricket team selector built with Python & PyQt5.
    ```
 
 ## Screenshots 📸
-(Upload images in your GitHub repository and add them here.)
-
-## Contributing 🤝
-Pull requests are welcome! Open an issue for suggestions or improvements.
-
-## License 📜
-This project is licensed under the MIT License.
+https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-13%20235639.png
+https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-14%20030639.png
+https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-14%20030835.png
+https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-14%20030900.png
