@@ -15,7 +15,7 @@ An interactive Fantasy Cricket team selector built with Python & PyQt5.
    ```
 2️⃣ Install dependencies:
    ```bash
-   pip install PyQt5
+   pip install -r requirements.txt
    ```
 3️⃣ Run the application:
    ```bash
