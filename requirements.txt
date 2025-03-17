@@ -1,2 +1,3 @@
+Python 3.x
 PyQt5==5.15.9
 sqlite3
