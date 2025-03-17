@@ -25,17 +25,17 @@ An interactive Fantasy Cricket team selector built with Python & PyQt5.
 
 ### 🏏 Dream Team Selector - Initial Selection
 The starting screen where players can be chosen based on available points.  
-![Dream Team Selector - Initial Selection](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-13%20235639.png)
+![Dream Team Selector - Initial Selection](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot1.png?raw=true)
+
 
 ### 🏏 Dream Team Selector - Menu Options
 This screen shows additional options such as saving or loading a team.  
-![Dream Team Selector - Menu Options](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-14%20030639.png)
+![Dream Team Selector - Menu Options](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot2.png?raw=true)
 
 ### 🏏 Dream Team Selector - Selected Players
 This interface allows users to select players for their fantasy team.  
-![Dream Team Selector - Selected Players](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-14%20030835.png)
+![Dream Team Selector - Selected Players](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot3.png?raw=true)
 
 ### 🏏 Fantasy Score Calculator
 This screen calculates the total fantasy score based on real match performances.  
-![Fantasy Score Calculator](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot%202025-03-14%20030900.png)
-
+![Fantasy Score Calculator](https://github.com/BhavikaGupta0698/Fantasy-Cricket-Game/blob/main/gui/Screenshot4.png?raw=true)
